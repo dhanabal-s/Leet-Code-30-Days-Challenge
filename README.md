@@ -1,2 +1,2 @@
 # Leet-Code-30-Days-Challenge
-It have solutions of leet code 30 Days challenge problems
+It contains solutions of leet code 30 Days challenge.
