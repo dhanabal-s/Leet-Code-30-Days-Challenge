@@ -1,5 +1,12 @@
 # Using, Binary search we will find the first bad version effectively.
-# Given version is bad, check it is starting version if return it, else change it as a end bad verion and do the same steps again.
+# Find the mid, then check it is good or bad
+# if it is Bad, 
+    # then check if it equal to mid true 
+        #  return mid 
+    # else 
+        # change end
+# else
+     # change the start
 class Solution:
     def firstBadVersion(self, n):
         start,end = 1,n
