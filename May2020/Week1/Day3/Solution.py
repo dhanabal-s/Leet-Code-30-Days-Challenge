@@ -1,5 +1,4 @@
 # Method 1
-
 # Check if i element of ransomNote in magazine
     # if change the ransomNote[i] in magazine into undefined magazine char
     # else return false
@@ -23,7 +22,6 @@ Space Complexity : O(1)
 # check no.of char in ransomNote is present in a magazine
 # if return True
 # else False
-
 
 import string
 class Solution:
