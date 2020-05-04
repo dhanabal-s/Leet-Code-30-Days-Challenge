@@ -19,7 +19,10 @@ class Solution:
                     end = mid
             else :
                 start = mid +1
-           
+        
+Time Complexity : O(logN)
+Space Complexity : O(1)
+    
 # Inbuilt function given by leetcode 
 def isBadVersion(n):
   if(n>=firstBadVersion):
