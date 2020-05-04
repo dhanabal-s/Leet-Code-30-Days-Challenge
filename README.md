@@ -1,7 +1,7 @@
 # Leet-Code-30-Days-Challenge
 It contains solutions of leet code 30 Days challenge.
 
-1. May 2020
+1. [May 2020](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020)
    1) [Week 1](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1)
         * [Day1(First Bad Version)](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day1)
         - [Day3(Jewels and Stones)](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day2)
