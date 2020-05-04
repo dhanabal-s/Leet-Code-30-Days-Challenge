@@ -15,4 +15,5 @@ class Solution:
                 count +=1
         return count
         
-        
+Time Complexity : O(len(J)+len(S))
+Space Complexity : O(len(J))
