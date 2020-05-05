@@ -15,4 +15,4 @@ Note: You may assume the string contain only lowercase letters.
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week1/Day5/Solution.py)
