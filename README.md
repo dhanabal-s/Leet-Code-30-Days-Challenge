@@ -8,6 +8,7 @@ It contains solutions of leet code 30 Days challenge.
         - Day3: [Ransom Note](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day3)
         - Day4: [Number Complement](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day4)
         - Day5: [First Unique Character in a String](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day5)
+        - Day6: [Majority Element](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week1/Day6)
    <!--2) Week 2: [May 8st–May 14th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week2)
    3) Week 3: [May 15st–May 21th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3)
    4) Week 4: [May 22st–May 28th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4)
