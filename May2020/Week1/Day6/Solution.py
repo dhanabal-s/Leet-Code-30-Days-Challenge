@@ -27,5 +27,5 @@ Time Complexity : O(N)
 Space Complexity : O(N)
 
 Note: if you apply both methods in a leetcode, method-1 beats more than 98% soln, but method-2 beats only a 30% soln. 
-      Even method-2 big notaion smaller than method-1. So, everyone is better than another in different situations.
-      real life also like that so, belive youself, love youself 
+      Even method-2 big notaion smaller than method-1 (reason is input size). So, everyone is better than another in different situations.
+      Real life also like that so, belive on youself, love youself. 
