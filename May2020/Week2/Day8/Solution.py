@@ -38,3 +38,5 @@ class Solution:
         
 Time Complexity : O(NlogN) N- coordinates lenght, logN- finding gcd()
 Space Complexity : O(1)
+
+    
