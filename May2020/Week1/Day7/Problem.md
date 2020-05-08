@@ -22,4 +22,4 @@ Each node has a unique integer value from 1 to 100.
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week1/Day7/Solution.py)
