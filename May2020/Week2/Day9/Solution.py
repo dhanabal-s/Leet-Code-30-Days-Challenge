@@ -7,7 +7,7 @@ class Solution:
             return False
         for root in range(1,num+1):
             if(root * root == num): return True
-            elif(root * root > num): return False
+            if(root * root > num): return False
 
 Time Complexity : O(sqrt(N)+1)
 Space Complxity : O(1)
