@@ -33,7 +33,6 @@ Input: N = 4, trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]</br>
 Output: 3</br>
  
 Note:
-
 1 <= N <= 1000</br>
 trust.length <= 10000</br>
 trust[i] are all different</br>
