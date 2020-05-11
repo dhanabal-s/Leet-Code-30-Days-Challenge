@@ -1,5 +1,3 @@
-# We solve the problem in two methods
-
 # Method-1
 # Sort the give list, return the middle element of the list. Because majority element always greater [n/2].
 
@@ -29,3 +27,16 @@ Space Complexity : O(N)
 Note: if you apply both methods in a leetcode, method-1 beats more than 98% soln, but method-2 beats only a 30% soln. 
       Even method-2 big notaion smaller than method-1 (reason is input size). So, everyone is better than another in different situations.
       Real life also like that so, belive on youself, love youself. 
+
+    
+# Method-3
+# using Boyer-Moore Voting Algorithm
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        count = 0
+        ele = None
+        for num in nums:
+            if(count == 0):
+                ele = num
+            count += (1 if(num == ele) else -1)
+        return ele
