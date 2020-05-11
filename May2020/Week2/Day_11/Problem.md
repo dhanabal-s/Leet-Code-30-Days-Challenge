@@ -30,4 +30,4 @@ The value of each color in image[i][j] and newColor will be an integer in [0, 65
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week2/Day_11/Solution.py)
