@@ -15,6 +15,7 @@ It contains solutions of leet code 30 Days challenge.
          * Day9: [Valid Perfect Square](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week2/Day9)
          * Day10: [Find the Town Judge](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week2/Day_10)
          * Day11: [Flood Fill](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week2/Day_11)
+         * Day11: [Single Element in a Sorted Array](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week2/Day_12)         
    <!--3) Week 3: [May 15st–May 21th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3)
    4) Week 4: [May 22st–May 28th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4)
    5) Week 5: [May 29st–May 31th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5)
