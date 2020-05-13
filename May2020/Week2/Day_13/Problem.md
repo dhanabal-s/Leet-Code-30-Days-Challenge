@@ -26,4 +26,4 @@ Explanation: Remove all the digits from the number and it is left with nothing w
 [LeetCode problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
 
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week2/Day_13/Solution.py)
