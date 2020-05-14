@@ -19,4 +19,4 @@ All inputs are guaranteed to be non-empty strings.
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week2/Day_14/Solution.py)
