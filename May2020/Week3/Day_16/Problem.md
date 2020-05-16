@@ -19,5 +19,5 @@ The first node is considered odd, the second node even and so on ...</br>
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week3/Day_16/Solution.py)
 
