@@ -27,5 +27,7 @@ class Solution:
             
 Time Complexity : O(N) N - length of string s
 
-Space Complexity : O(k) k - number of anagram matchs
+Space Complexity : O(K) K - number of anagram matchs
 
+
+    
