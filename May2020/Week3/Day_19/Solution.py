@@ -13,7 +13,8 @@ class StockSpanner:
         self.spanCount.append(spanCount)
         return spanCount
         
-Time Complexity: O(Q).  O(Q), where QQ is the number of calls to StockSpanner.next. In total, there are QQ pushes to the stack, and at most QQ pops.
+Time Complexity: O(Q).  O(Q), where QQ is the number of calls to StockSpanner.next. 
+                        In total, there are Q pushes to the stack, and at most Q pops.
 
 Space Complexity: O(Q).
   
