@@ -8,9 +8,9 @@ Example 1:</br>
 Input: root = [3,1,4,null,2], k = 1</br>
    3</br>
   / \  </br>
- 1   4 </br>
-  \  </br>
-   2  </br>
+1   4 </br>
+ \  </br>
+  2  </br>
 Output: 1
 
 Example 2:</br>
