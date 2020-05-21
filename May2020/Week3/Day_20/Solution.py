@@ -19,7 +19,7 @@ Space Complexity : O(N)
 
 
 # Method - 2
-# return if you finded the Kth number instead of visiting all nodes
+# return the value when you find the the Kth number instead of visiting all nodes
 
 class Solution:
     def kthSmallest(self, root: TreeNode, k: int) -> int:
