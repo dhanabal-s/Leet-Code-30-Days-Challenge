@@ -7,21 +7,21 @@ Given a binary search tree, write a function kthSmallest to find the kth smalles
 Example 1:</br>
 Input: root = [3,1,4,null,2], k = 1</br>
    3</br>
-  / \</br>
- 1   4</br>
-  \</br>
-   2</br>
+  / \  </br>
+ 1   4 </br>
+  \  </br>
+   2  </br>
 Output: 1
 
 Example 2:</br>
 Input: root = [5,3,6,2,4,null,null,1], k = 3</br>
-       5</br>
-      / \</br>
-     3   6</br>
-    / \</br>
-   2   4</br>
-  /</br>
- 1</br>
+       5  </br>
+      / \ </br>
+     3   6 </br>
+    / \  </br>
+   2   4 </br>
+  /  </br>
+ 1  </br>
 Output: 3</br>
 
 Follow up:</br>
