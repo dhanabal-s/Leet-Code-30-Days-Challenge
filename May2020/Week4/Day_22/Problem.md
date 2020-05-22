@@ -30,11 +30,7 @@ Explanation:</br>
 "bbaA" is also a valid answer, but "Aabb" is incorrect.</br>
 Note that 'A' and 'a' are treated as two different characters.</br>
 
-Time Complexity : O(n log n)
-
-Space Complexity : O(n) n: number of elements
-
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week4/Day_22/Solution.py)
