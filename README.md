@@ -28,4 +28,5 @@ It contains solutions of leet code 30 Days challenge.
        * Day20: [Kth Smallest Element in a BST](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3/Day_20)
    4) Week 4: [May 22st–May 28th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4)
        * Day22: [Sort Characters By Frequency](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_22)  
+       * Day26: [Contiguous Array](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_26)  
    <!--5) Week 5: [May 29st–May 31th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5)
