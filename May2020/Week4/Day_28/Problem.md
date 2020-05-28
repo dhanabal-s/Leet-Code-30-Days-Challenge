@@ -21,5 +21,5 @@ Follow up:<br>
 
 [LeetCode problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week4/Day_29/Solution.py)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week4/Day_28/Solution.py)
 
