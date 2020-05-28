@@ -37,6 +37,6 @@ Constraints:<br>
 
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/)
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week3/day_21/Solution.py)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week3/Day_21/Solution.py)
 
 
