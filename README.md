@@ -26,6 +26,8 @@ It contains solutions of leet code 30 Days challenge.
        * Day18: [Permutation in String](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3/Day_18)
        * Day19: [Online Stock Span](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3/Day_19)
        * Day20: [Kth Smallest Element in a BST](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3/Day_20)
+       * Day21: [Count Square Submatrices with All Ones](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week3/Day_21)
+       
    4) Week 4: [May 22st–May 28th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4)
        * Day22: [Sort Characters By Frequency](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_22)  
        * Day26: [Contiguous Array](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_26)  
