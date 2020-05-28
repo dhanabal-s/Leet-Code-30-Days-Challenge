@@ -35,8 +35,8 @@ Constraints:<br>
 1 <= arr[0].length <= 300<br>
 0 <= arr[i][j] <= 1<br>
 
-[LeetCode Problem link]()
+[LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/)
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week3/day_21/Solution.md)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week3/day_21/Solution.py)
 
 
