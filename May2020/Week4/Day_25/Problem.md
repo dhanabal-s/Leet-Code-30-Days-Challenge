@@ -34,5 +34,5 @@ Note:<br>
 [LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/)
 
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/new/master/May2020/Week4/Day_25/Solution.py)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week4/Day_25/Solution.py)
 
