@@ -37,6 +37,6 @@ It contains solutions of leet code 30 Days challenge.
        * Day27: [Possible Bipartition](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_27)
        * Day28: [Counting Bits](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week4/Day_28)  
    5) Week 5: [May 29st–May 31th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5)
-       * Day29: [Course Schedule](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_39)  
+       * Day29: [Course Schedule](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_29)  
        * Day30: [K Closest Points to Origin](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_30)  
        
