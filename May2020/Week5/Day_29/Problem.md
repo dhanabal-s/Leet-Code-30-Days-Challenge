@@ -33,7 +33,7 @@ Constraints:
 * 1 <= numCourses <= 10^5
 
 
-[LeetCode Problem link]()
+[LeetCode Problem link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)
 
 [Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/May2020/Week5/Day_29/Solution.py)
 
