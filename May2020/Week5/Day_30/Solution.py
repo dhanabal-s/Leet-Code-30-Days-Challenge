@@ -5,6 +5,6 @@ class Solution(object):
         
 Time Complexity : O(NlogN)
 
-Space Complexity: O(1)
+Space Complexity: O(N). This space for sorting given list.
 
 
