@@ -39,4 +39,5 @@ It contains solutions of leet code 30 Days challenge.
    5) Week 5: [May 29st–May 31th](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5)
        * Day29: [Course Schedule](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_29)  
        * Day30: [K Closest Points to Origin](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_30)  
+       * Day31: [Edit Distance](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/tree/master/May2020/Week5/Day_31)  
        
