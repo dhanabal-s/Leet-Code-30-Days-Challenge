@@ -21,6 +21,9 @@ Note:<br>
 * The given node will not be the tail and it will always be a valid node of the linked list.
 * Do not return anything from your function.
 
-[Leetcode Problem link]()
+[Leetcode Problem link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/)
 
-[Solution]()
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day2/Solution.py)
+
+
+
