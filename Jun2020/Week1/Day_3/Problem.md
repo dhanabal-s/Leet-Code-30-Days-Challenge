@@ -23,6 +23,6 @@ Note:<br>
 
 [Leetcode Problem link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day_3/Soution.py)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day_3/Solution.py)
 
 
