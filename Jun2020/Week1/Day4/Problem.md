@@ -16,7 +16,7 @@ Input: ["H","a","n","n","a","h"]<br>
 Output: ["h","a","n","n","a","H"]
 
 
-[LeetCode Problem link]()
+[LeetCode Problem link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/)
 
 [Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day4/Solution.py)
 
