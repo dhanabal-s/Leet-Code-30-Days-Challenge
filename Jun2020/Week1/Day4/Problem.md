@@ -18,6 +18,6 @@ Output: ["h","a","n","n","a","H"]
 
 [LeetCode Problem link]()
 
-[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day5/Solution.py)
+[Solution](https://github.com/DhanabalShanmugam/Leet-Code-30-Days-Challenge/blob/master/Jun2020/Week1/Day4/Solution.py)
 
 
